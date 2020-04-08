@@ -37,3 +37,5 @@ parser.add_argument("--do_lower_case", type=bool, default=False, help="Set this 
 parser.add_argument("--max_sequence_length", type=int, default=170)
 
 args = parser.parse_args()
+
+print('ceshi')
